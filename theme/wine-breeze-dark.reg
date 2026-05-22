@@ -1,0 +1,38 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Colors]
+"ActiveBorder"="49 54 58"
+"ActiveTitle"="39 44 49"
+"AppWorkSpace"="60 64 72"
+"Background"="49 54 58"
+"ButtonAlternateFace"="49 54 58"
+"ButtonDkShadow"="154 154 154"
+"ButtonFace"="49 54 58"
+"ButtonHilight"="119 126 140"
+"ButtonLight"="60 64 72"
+"ButtonShadow"="60 64 72"
+"ButtonText"="219 220 222"
+"GradientActiveTitle"="39 44 49"
+"GradientInactiveTitle"="32 36 40"
+"GrayText"="155 155 155"
+"Hilight"="96 102 112"
+"HilightText"="255 255 255"
+"InactiveBorder"="49 54 58"
+"InactiveTitle"="32 36 40"
+"InactiveTitleText"="161 169 177"
+"InfoText"="219 220 222"
+"InfoWindow"="49 54 58"
+"Menu"="49 54 58"
+"MenuBar"="49 54 58"
+"MenuHilight"="96 102 112"
+"MenuText"="219 220 222"
+"Scrollbar"="73 78 88"
+"TitleText"="252 252 252"
+"Window"="35 38 41"
+"WindowFrame"="49 54 58"
+"WindowText"="219 220 222"
+"HotTrackingColor"="29 153 243"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:00000000
+"SystemUsesLightTheme"=dword:00000000
