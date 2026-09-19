@@ -1,4 +1,4 @@
-// Build: x86_64-w64-mingw32-gcc -O2 -municode syscolor_demo.c -o syscolor_demo.exe -lcomctl32 -lgdi32 -luser32
+// Build: x86_64-w64-mingw32-gcc -O2 -Wall -Wextra -municode -mwindows syscolor-demo.c -o syscolor-demo.exe -lcomctl32 -lgdi32 -luser32
 #include <windows.h>
 #include <commctrl.h>
 
