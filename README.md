@@ -1,6 +1,8 @@
 # Wine Breeze Dark
 
-Small registry theme for making Wine's classic `(No Theme)` appearance use a Breeze Dark-like palette.
+A theme for Wine that uses the Plasma 6 Breeze Dark palette.
+
+![Wine System Color Demo using the Breeze Dark-like palette](screenshots/system-color-demo.png)
 
 ## Download
 
